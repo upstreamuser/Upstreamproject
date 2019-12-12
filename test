@@ -1,3 +1,4 @@
 i have created this file t test pull request
 modified jenkins job configuration
-i57i
+changed $({SHA1} to ${ghprbActualCommit}
+changed ip to jenkins public IP
